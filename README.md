@@ -4,7 +4,13 @@
 An interactive, single-file HTML dashboard for exploring retail store transaction data.
 Built with **AI models** and **Visual Studio Code** — no build step, no backend, no dependencies to install.
 
-![Dashboard Preview] <br> (https://github.com/ankit18patel/retail-analysis-dashboard-using-AI/blob/main/dashboard.png)
+
+<br><br>
+
+## Dashboard
+
+![Dashboard Preview](https://github.com/ankit18patel/retail-analysis-dashboard-using-AI/blob/main/dashboard.png)
+<br><br>
 
 ---
 
@@ -22,8 +28,13 @@ Built with **AI models** and **Visual Studio Code** — no build step, no backen
 | **Zero install** | Just open `index.html` in a browser |
 
 ---
+## Revenue Interactive Visuals
+![Dashboard Preview](https://github.com/ankit18patel/retail-analysis-dashboard-using-AI/blob/main/revenue%20by%20store.png)
+<br><br>
 
-(https://github.com/ankit18patel/retail-analysis-dashboard-using-AI/blob/main/revenue%20by%20product.png)
+## Excel dataset
+![Dashboard Preview](https://github.com/ankit18patel/retail-analysis-dashboard-using-AI/blob/main/data_set_img.png)
+<br><br>
 ##  Quick Start
 
 ### Option 1 — Run Locally
