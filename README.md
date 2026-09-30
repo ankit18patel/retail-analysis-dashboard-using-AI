@@ -4,7 +4,7 @@
 An interactive, single-file HTML dashboard for exploring retail store transaction data.
 Built with **Chart.js**, **SheetJS**, and vanilla JavaScript — no build step, no backend, no dependencies to install.
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/ankit18patel/retail-analysis-dashboard-using-AI/blob/main/dashboard.png)
 
 ---
 
