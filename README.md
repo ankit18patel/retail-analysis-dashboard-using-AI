@@ -2,9 +2,9 @@
 
 
 An interactive, single-file HTML dashboard for exploring retail store transaction data.
-Built with **Chart.js**, **SheetJS**, and vanilla JavaScript — no build step, no backend, no dependencies to install.
+Built with **AI models** and **Visual Studio Code** — no build step, no backend, no dependencies to install.
 
-![Dashboard Preview](https://github.com/ankit18patel/retail-analysis-dashboard-using-AI/blob/main/dashboard.png)
+![Dashboard Preview] <br> (https://github.com/ankit18patel/retail-analysis-dashboard-using-AI/blob/main/dashboard.png)
 
 ---
 
@@ -23,10 +23,10 @@ Built with **Chart.js**, **SheetJS**, and vanilla JavaScript — no build step, 
 
 ---
 
+(https://github.com/ankit18patel/retail-analysis-dashboard-using-AI/blob/main/revenue%20by%20product.png)
 ##  Quick Start
 
 ### Option 1 — Run Locally
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/ankit18patel/retail-analysis-dashboard-using-AI.git
-   cd retail-pulse-analytics
+   git clone https://github.com/ankit18patel/retail-analysis-dashboard-using-AI
